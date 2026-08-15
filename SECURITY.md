@@ -1,4 +1,4 @@
-# Política de Seguridad de Remind Me
+# Política de Seguridad de ReTellmePy
 
 Si descubres una vulnerabilidad de seguridad o un problema crítico en la aplicación, por favor no abras un Issue público.
 
