@@ -3,4 +3,5 @@ Remind Me es una aplicación de escritorio que funciona como un recordatorio con
 Página Oficial de Remind Me: https://remind-me-ep9.pages.dev/
 
 ¿Por qué mi antivirus lo detecta como falso positivo?
+
 Debido a que el programa está empaquetado de forma independiente en un ejecutable ejecutable (.exe) y no cuenta con un certificado comercial de alto costo, algunos antivirus reaccionan por heurística ante archivos ejecutables nuevos. Es un comportamiento que puede ocurrir con ejecutables independientes nuevos que no cuentan con una firma/certificado reconocido. Si tienes dudas, puedes revisar el código fuente o analizar el archivo antes de ejecutarlo.
