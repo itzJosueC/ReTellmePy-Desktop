@@ -8,8 +8,7 @@ Se concede al usuario el derecho no exclusivo, no transferible y gratuito de des
 2. RESTRICCIONES
 El usuario no podrá:
 - Vender, alquilar, arrendar, redistribuir o comercializar este software o sus derivados bajo ningún concepto.
-- Modificar, descompilar o realizar ingeniería inversa del ejecutable con el fin de redistribuir versiones modificadas, extraer código para proyectos de terceros o lucrarse con el trabajo del autor. 
-(Se permite la inspección o auditoría personal del binario exclusivamente con fines de verificación de seguridad y transparencia).
+(Se permite la descompilación, ingeniería inversa o inspección del ejecutable exclusivamente con fines personales de auditoría, análisis y verificación de seguridad. No se permite utilizar dicho proceso para extraer, reutilizar, redistribuir, comercializar o incorporar código, recursos o componentes de ReTellmePy en proyectos de terceros.).
 
 3. EXENCIÓN DE GARANTÍA Y LIMITACIÓN DE RESPONSABILIDAD
 El software se proporciona "tal cual" (AS IS), sin garantía de ningún tipo, expresa o implícita. En ningún caso el autor (Credulo) será responsable de cualquier reclamo, daño u otra responsabilidad derivada del uso o la imposibilidad de uso de este software.
