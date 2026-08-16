@@ -14,4 +14,4 @@ El usuario no podrá:
 El software se proporciona "tal cual" (AS IS), sin garantía de ningún tipo, expresa o implícita. En ningún caso el autor (Credulo) será responsable de cualquier reclamo, daño u otra responsabilidad derivada del uso o la imposibilidad de uso de este software.
 
 4. PRIVACIDAD
-ReTellmePy no recopila, almacena ni transmite datos personales o información sobre el uso del sistema a servidores externos. Todo el procesamiento de datos y síntesis de voz se realiza de forma estrictamente local en el equipo del usuario.
+ReTellmePy no requiere una conexión a Internet para funcionar ni recopila, almacena o transmite datos personales o información sobre el uso del sistema a servidores externos. El procesamiento de los recordatorios y la síntesis de voz se realizan localmente en el equipo del usuario.
